@@ -8,3 +8,8 @@ This app is a one stop platform for everything you want to do with your money. T
 - Have a monthly earning, saving and expenditure at the main page. I must be able to give a date for my month to start
 - analyse my monthly spending - bar graph
 - set a monthly budget and accordingly notify me if I go over that
+
+## Preview
+
+![WhatsApp Image 2024-10-14 at 20 51 45 (1)](https://github.com/user-attachments/assets/1ce86897-f962-4f91-bc4d-319169949dca)
+![WhatsApp Image 2024-10-28 at 21 18 55](https://github.com/user-attachments/assets/d0b292f1-2fc1-41a8-8efe-2ca161596d90)
