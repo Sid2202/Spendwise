@@ -1,16 +1,10 @@
-# money_tracker
+# Spendwise
+This app is a one stop platform for everything you want to do with your money. The main focus lies on being financial woke and get a detailed understanding of one’s own spendings, savings and investments. The app targets the young generation (age 18 to 26) who struggle to understand the big picture of wealth creation.
 
-A new Flutter project.
+## Features
+**1 WEEK ROADMAP 🏃🏻‍♀️‍➡️**
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Display the list of banks I use along with their balances
+- Have a monthly earning, saving and expenditure at the main page. I must be able to give a date for my month to start
+- analyse my monthly spending - bar graph
+- set a monthly budget and accordingly notify me if I go over that
